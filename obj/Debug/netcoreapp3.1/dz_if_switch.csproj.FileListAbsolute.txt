@@ -1,0 +1,13 @@
+C:\Users\Tolmasbek\Desktop\code\DZ_if()else_switch()case\dz_if_switch\bin\Debug\netcoreapp3.1\dz_if_switch.exe
+C:\Users\Tolmasbek\Desktop\code\DZ_if()else_switch()case\dz_if_switch\bin\Debug\netcoreapp3.1\dz_if_switch.deps.json
+C:\Users\Tolmasbek\Desktop\code\DZ_if()else_switch()case\dz_if_switch\bin\Debug\netcoreapp3.1\dz_if_switch.runtimeconfig.json
+C:\Users\Tolmasbek\Desktop\code\DZ_if()else_switch()case\dz_if_switch\bin\Debug\netcoreapp3.1\dz_if_switch.runtimeconfig.dev.json
+C:\Users\Tolmasbek\Desktop\code\DZ_if()else_switch()case\dz_if_switch\bin\Debug\netcoreapp3.1\dz_if_switch.dll
+C:\Users\Tolmasbek\Desktop\code\DZ_if()else_switch()case\dz_if_switch\bin\Debug\netcoreapp3.1\dz_if_switch.pdb
+C:\Users\Tolmasbek\Desktop\code\DZ_if()else_switch()case\dz_if_switch\obj\Debug\netcoreapp3.1\dz_if_switch.csprojAssemblyReference.cache
+C:\Users\Tolmasbek\Desktop\code\DZ_if()else_switch()case\dz_if_switch\obj\Debug\netcoreapp3.1\dz_if_switch.csproj.CoreCompileInputs.cache
+C:\Users\Tolmasbek\Desktop\code\DZ_if()else_switch()case\dz_if_switch\obj\Debug\netcoreapp3.1\dz_if_switch.AssemblyInfoInputs.cache
+C:\Users\Tolmasbek\Desktop\code\DZ_if()else_switch()case\dz_if_switch\obj\Debug\netcoreapp3.1\dz_if_switch.AssemblyInfo.cs
+C:\Users\Tolmasbek\Desktop\code\DZ_if()else_switch()case\dz_if_switch\obj\Debug\netcoreapp3.1\dz_if_switch.dll
+C:\Users\Tolmasbek\Desktop\code\DZ_if()else_switch()case\dz_if_switch\obj\Debug\netcoreapp3.1\dz_if_switch.pdb
+C:\Users\Tolmasbek\Desktop\code\DZ_if()else_switch()case\dz_if_switch\obj\Debug\netcoreapp3.1\dz_if_switch.genruntimeconfig.cache

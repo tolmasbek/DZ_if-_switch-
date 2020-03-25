@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "dz_if_switch/1.0.0": {
+        "runtime": {
+          "dz_if_switch.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dz_if_switch/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
